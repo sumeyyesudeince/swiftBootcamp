@@ -1,0 +1,198 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "2ru-bW-bvT.configuration.title" : {
+      "comment" : "Class = \"UIButton\"; configuration.title = \"Pepper\"; ObjectID = \"2ru-bW-bvT\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Pepper"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "Biber"
+          }
+        }
+      }
+    },
+    "2ru-bW-bvT.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Button\"; ObjectID = \"2ru-bW-bvT\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Button"
+          }
+        }
+      }
+    },
+    "7VS-a9-txX.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Delivery\"; ObjectID = \"7VS-a9-txX\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Delivery"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "Teslimat"
+          }
+        }
+      }
+    },
+    "7YX-OA-edI.configuration.title" : {
+      "comment" : "Class = \"UIButton\"; configuration.title = \"Sausage\"; ObjectID = \"7YX-OA-edI\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Sausage"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "Sucuk"
+          }
+        }
+      }
+    },
+    "7YX-OA-edI.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Button\"; ObjectID = \"7YX-OA-edI\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Button"
+          }
+        }
+      }
+    },
+    "48v-IM-Nw9.configuration.title" : {
+      "comment" : "Class = \"UIButton\"; configuration.title = \"Cheese\"; ObjectID = \"48v-IM-Nw9\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Cheese"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "Peynir"
+          }
+        }
+      }
+    },
+    "48v-IM-Nw9.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Button\"; ObjectID = \"48v-IM-Nw9\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Button"
+          }
+        }
+      }
+    },
+    "Aq7-Pv-t6F.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Meat lover, get ready to meet your pizza!\"; ObjectID = \"Aq7-Pv-t6F\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Meat lover, get ready to meet your pizza!"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "Batubaba sucuklu pizza yemeye hazır mısın? "
+          }
+        }
+      }
+    },
+    "c7f-Ak-I54.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Button\"; ObjectID = \"c7f-Ak-I54\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Button"
+          }
+        }
+      }
+    },
+    "DVC-ll-D8Z.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"$ 5,98\"; ObjectID = \"DVC-ll-D8Z\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "$ 5,98"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "250 ₺"
+          }
+        }
+      }
+    },
+    "L7Y-rY-Rkh.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Beef Cheese\"; ObjectID = \"L7Y-rY-Rkh\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Beef Cheese"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "Etli Peynirli"
+          }
+        }
+      }
+    },
+    "qRp-jl-esB.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"20 min\"; ObjectID = \"qRp-jl-esB\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "20 min"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "20 dk"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
